@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\bin\Debug\TrenjutnoVrijeme_IvaSosic.exe.config
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\bin\Debug\TrenjutnoVrijeme_IvaSosic.exe
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\bin\Debug\TrenjutnoVrijeme_IvaSosic.pdb
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\obj\Debug\TrenjutnoVrijeme_IvaSosic.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\obj\Debug\TrenjutnoVrijeme_IvaSosic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\obj\Debug\TrenjutnoVrijeme_IvaSosic.Form1.resources
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\obj\Debug\TrenjutnoVrijeme_IvaSosic.Properties.Resources.resources
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\obj\Debug\TrenjutnoVrijeme_IvaSosic.csproj.GenerateResource.cache
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\obj\Debug\TrenjutnoVrijeme_IvaSosic.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\obj\Debug\TrenjutnoVrijeme_IvaSosic.exe
+C:\Users\Ucenik\Documents\Iva\TrenjutnoVrijeme_IvaSosic\obj\Debug\TrenjutnoVrijeme_IvaSosic.pdb
